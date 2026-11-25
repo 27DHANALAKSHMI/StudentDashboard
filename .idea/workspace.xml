@@ -5,12 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a7d06558-941a-4065-a572-d287d147f758" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/StudentDashboard.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,25 +23,37 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;27DHANALAKSHMI&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/27DHANALAKSHMI/StudentDashboard.git&quot;,
+    &quot;accountId&quot;: &quot;6771dd67-1421-4fbe-93fe-71687e5d06df&quot;
+  }
+}</component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
       <entry key="MS100" value="1.0" />
       <entry key="MS500" value="1.0" />
       <entry key="S2" value="1.0" />
-      <entry key="S5" value="1.0" />
-      <entry key="S10" value="1.0" />
-      <entry key="S30" value="1.0" />
-      <entry key="S60" value="1.0" />
-      <entry key="M2" value="1.0" />
-      <entry key="M5" value="1.0" />
-      <entry key="M10" value="1.0" />
-      <entry key="M15" value="1.0" />
-      <entry key="M30" value="1.0" />
-      <entry key="H1" value="1.0" />
-      <entry key="H2" value="1.0" />
-      <entry key="H4" value="1.0" />
-      <entry key="D1" value="1.0" />
-      <entry key="W1" value="1.0" />
+      <entry key="S5" value="1.000000000407636" />
+      <entry key="S10" value="1.0000253464394484" />
+      <entry key="S30" value="1.0858166158560045" />
+      <entry key="S60" value="1.9858085494865079" />
+      <entry key="M2" value="5.863755074297336" />
+      <entry key="M5" value="21.479103567238955" />
+      <entry key="M10" value="44.22939777590115" />
+      <entry key="M15" value="59.303664548660514" />
+      <entry key="M30" value="81.79215240241682" />
+      <entry key="H1" value="97.07261758250833" />
+      <entry key="H2" value="106.02543126758555" />
+      <entry key="H4" value="110.87735444582565" />
+      <entry key="D1" value="115.1267377294415" />
+      <entry key="W1" value="115.87476174269074" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="0.0" />
@@ -67,50 +75,50 @@
       <entry key="W1" value="0.0" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="1.9715696807200006E-176" />
-      <entry key="MS500" value="7.227072744739302E-36" />
-      <entry key="S2" value="1.6396101816802278E-9" />
-      <entry key="S5" value="3.0612319867621686E-4" />
-      <entry key="S10" value="0.017496376729946597" />
-      <entry key="S30" value="0.2596067859430697" />
-      <entry key="S60" value="0.5095162273599043" />
-      <entry key="M2" value="0.7138040538970791" />
-      <entry key="M5" value="0.8738393629683436" />
-      <entry key="M10" value="0.9347937542411928" />
-      <entry key="M15" value="0.956042505451371" />
-      <entry key="M30" value="0.9777742609883792" />
-      <entry key="H1" value="0.9888246866802928" />
-      <entry key="H2" value="0.994396644543963" />
-      <entry key="H4" value="0.997194386538534" />
-      <entry key="D1" value="0.999531850187691" />
-      <entry key="W1" value="0.9999331080332753" />
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="4.2148421968608835E-91" />
+      <entry key="S2" value="2.7071761358017076E-23" />
+      <entry key="S5" value="1.2285163108702992E-9" />
+      <entry key="S10" value="5.238806437980203E-5" />
+      <entry key="S30" value="0.11242867119337654" />
+      <entry key="S60" value="1.137298744753717" />
+      <entry key="M2" value="5.227882608878197" />
+      <entry key="M5" value="21.092186164261282" />
+      <entry key="M10" value="43.964253599438145" />
+      <entry key="M15" value="59.095106480177456" />
+      <entry key="M30" value="81.66311410690798" />
+      <entry key="H1" value="96.99928261496004" />
+      <entry key="H2" value="105.98610422404313" />
+      <entry key="H4" value="110.85695848956951" />
+      <entry key="D1" value="115.1232303684661" />
+      <entry key="W1" value="115.87425795892699" />
     </decayedShown>
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4,
-  "fromUser": false
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4,
+  &quot;fromUser&quot;: false
+}</component>
   <component name="ProjectId" id="3MK8NTfyt3zP4VrFEeiaRrutV4V" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Python.main.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "git-widget-placeholder": "master",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "python.packages.toolwindow.project.migrated.to.right.top.v2": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;python.packages.toolwindow.project.migrated.to.right.top.v2&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
